@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Initial project test</h1>
+	<h2>Initial project test</h2>
 </body>
 </html>
